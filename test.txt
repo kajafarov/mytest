@@ -1,8 +1,2 @@
-Salam Jafarov
-<<<<<<< HEAD
-Oldu Qaqulya
 Olmadi
-=======
-
 Nadi ee
->>>>>>> 15a03c0c2f2c2f69ad8152050ad742d9f68e3a0c
